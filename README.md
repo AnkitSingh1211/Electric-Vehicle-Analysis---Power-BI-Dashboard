@@ -42,4 +42,4 @@ This dashboard provides an interactive analysis of electric vehicles (EVs), focu
 To use or modify this dashboard, follow these steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/electric-vehicle-analysis.git
+   git clone https://github.com/AnkitSingh1211/electric-vehicle-analysis.git
