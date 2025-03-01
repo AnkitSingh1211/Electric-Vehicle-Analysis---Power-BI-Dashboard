@@ -29,7 +29,7 @@ This dashboard provides an interactive analysis of electric vehicles (EVs), focu
 - Use the **map** to understand geographic distribution.
 
 ## Technologies Used
-- Data visualization tools like Power BI or Tableau.
+- Data visualization tools Power BI.
 - Mapping services (e.g., Microsoft Bing Maps, OpenStreetMap).
 - Interactive filtering for dynamic data exploration.
 
